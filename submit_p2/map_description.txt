@@ -1,0 +1,2 @@
+I decided to wrangle the OSM data of Kyoto, Japan downloaded from:  https://mapzen.com/metro-extracts/ because it has an appropriate file size (193 MB) and it is one of my home towns as well. 
+
